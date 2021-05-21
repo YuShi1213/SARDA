@@ -1,5 +1,5 @@
 # SARDA
-This is the core code for the paper"Unsupervised Domain Adaptation for SAR Target Detection"
+This is the core code for the paper"Unsupervised Domain Adaptation for SAR Target Detection".The complete code will be open source in the future
 
 The CycleGAN code can be find in  https://github.com/junyanz/CycleGAN
 
